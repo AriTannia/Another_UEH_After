@@ -43,9 +43,9 @@ Gồm 6 thành viên:
 
 - Thêm nữa là các Wanderer là những thực thể đại diện cho các sinh viên mất đi định hướng và bị tha hóa bởi sức mạnh từ thế giới đó. Ngoại hình của họ cơ bản là hình người nhưng với vẻ ngoài kỳ dị. Tuy nhiên, trong quá trình phát triển dự án, nhóm quyết định đổi ngoại hình của Wanderer từ hình người thành khủng long.
 
-## Hướng Dẫn Cài Đặt
+# Hướng Dẫn Cài Đặt
 
-# Yêu Cầu Hệ Thống
+## Yêu Cầu Hệ Thống
 
 - Unity Hub
 
@@ -53,7 +53,7 @@ Gồm 6 thành viên:
 
 - VS Studio 2022
 
-# Cài Đặt
+## Cài Đặt
 
 #### Start. Tải file .rar NOZ_C
     Đường dẫn: https://drive.google.com/drive/folders/12ctnRe4-bT7su7J_1JZy7RaiY3Re6pX1?usp=drive_link
