@@ -1,0 +1,19 @@
+{
+    "characterName": "duongtank1",
+    "characterLevel": 1,
+    "xPosition": -1.309999942779541,
+    "yPosition": 1.7840759754180909,
+    "zPosition": 10.930000305175782,
+    "yRotation": 0.0,
+    "_sceneNow": "UEH B1",
+    "currentHealth": 50,
+    "maxHealth": 50,
+    "healthLevel": 5,
+    "currentStamina": 100.0,
+    "maxStamina": 100.0,
+    "staminaLevel": 10,
+    "currentAttackDamage": 10,
+    "currentSouls": 1000,
+    "healthSliderValue": 50.0,
+    "staminaSliderValue": 100.0
+}
