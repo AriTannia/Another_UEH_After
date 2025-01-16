@@ -34,18 +34,18 @@ Gồm 6 thành viên:
 
 - Ngôn ngữ lập trình: C#
 
-# Cốt Truyện
+## Cốt Truyện
 
 - Tựa game bắt đầu với một cô sinh viên tên Nozomi vô tình lạc vào các cơ sở của UEH ở một thế giới khác. Cô được chọn làm một Breaker, được dẫn dắt bởi Instructor với mục tiêu đánh bại Wanderer King để giải phóng những người bị mắc kẹt trong thế giới này và trở về nhà.
 
-# Hạn Chế
+## Hạn Chế
 - Xây dựng màn chơi, triển khai cốt truyện và hệ thống chiến đấu vì giới hạn thời gian của đồ án cuối kỳ nên không thể nào đạt được sự chỉnh chu cần thiết.
 
 - Thêm nữa là các Wanderer là những thực thể đại diện cho các sinh viên mất đi định hướng và bị tha hóa bởi sức mạnh từ thế giới đó. Ngoại hình của họ cơ bản là hình người nhưng với vẻ ngoài kỳ dị. Tuy nhiên, trong quá trình phát triển dự án, nhóm quyết định đổi ngoại hình của Wanderer từ hình người thành khủng long.
 
-# Hướng Dẫn Cài Đặt
+## Hướng Dẫn Cài Đặt
 
-## Yêu Cầu Hệ Thống
+### Yêu Cầu Hệ Thống
 
 - Unity Hub
 
@@ -53,7 +53,7 @@ Gồm 6 thành viên:
 
 - VS Studio 2022
 
-## Cài Đặt
+### Cài Đặt
 
 #### Start. Tải file .rar NOZ_C
     https://drive.google.com/drive/folders/12ctnRe4-bT7su7J_1JZy7RaiY3Re6pX1?usp=drive_link
