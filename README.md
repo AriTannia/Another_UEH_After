@@ -56,7 +56,7 @@ Gồm 6 thành viên:
 ## Cài Đặt
 
 #### Start. Tải file .rar NOZ_C
-    Đường dẫn: https://drive.google.com/drive/folders/12ctnRe4-bT7su7J_1JZy7RaiY3Re6pX1?usp=drive_link
+    https://drive.google.com/drive/folders/12ctnRe4-bT7su7J_1JZy7RaiY3Re6pX1?usp=drive_link
 #### 1. Kết nối database:
 - Mở server explorer, chuột phải vào Data Connection chọn "Add Connection", thay đổi Data Source thành "Microsoft SQL Server Database File". Database file name --> Chọn Browse, ở thư mục AdminLogin, chọn Database1.mdf.
 #### 2. Sửa connectionString
