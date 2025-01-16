@@ -63,7 +63,7 @@ Gồm 6 thành viên:
 -  Mở properties của database, sao chép connectionString (chỉ lấy tới "Integrated Security=True"), sửa nó ở file DangNhap.cs và Connection.cs
 #### 3. Sửa jsonFilePath - dòng 60 - trong DangNhap.cs 
 - Vào đến đường dẫn "...\AdminLogin\bin\Debug" trong máy của bạn, sao chép "...\AdminLogin\bin\Debug" và sửa lại "C:\Users\84967\OneDrive\Documents\GitHub\Another_UEH_2\AdminLogin\bin\Debug" trong file gốc (Lưu ý \AnotherUEHSaveFile phải giữ nguyên)
-#### 4. Sửa đường dẫn mở file .exe - dòng 85 - trong DangNhap.cs của game
+#### 4. Sửa đường dẫn mở file .exe - dòng 85 - trong DangNhap.cs
 - Mở Unity Hub rồi mở dự án NOZ_C mới tải về (nhớ chọn đúng phiên bản 2022.3.18f1), vào file ==> Chọn Build Settings ==> Click hết tất cả các scene trong Scenes in build ==> Platform chọn window/mac/linux ==> Chọn Build ==> Lưu ở chỗ bạn muốn
 - Copy đường link file NOZ_C .exe bạn mới tạo ở trên, sửa lại phần "C:\Users\84967\Downloads\UEH_GAME"
 #### 5. Xóa thư mục bin và obj ở trong thư mục AdminLogin rồi build lại dự án và chạy (đến khi xuất hiện lại 2 thư mục bin và obj)
@@ -72,7 +72,7 @@ Gồm 6 thành viên:
 - Đăng nhập băng tài khoản sau:
     * TK: duongtank1
     * MK: duongtank
-- Click chuột chọn đăng nhập, ấn ok là bắt đầu vào đây.
+- Click chuột chọn đăng nhập, ấn ok là bắt đầu vào game.
 ## Hướng Dẫn Chơi
 - Di chuyển bằng hai nút A và D.
 - Đánh bằng J, né bằng K.
